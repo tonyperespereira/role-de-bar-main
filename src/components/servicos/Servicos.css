@@ -1,0 +1,64 @@
+#servicos{
+  background-color: purple;
+  font-family: 'Fredoka', serif;
+}
+
+#saudacao {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  font-size: 1.1rem;
+  background-color: #add8e6; 
+}
+
+#plataforma {
+    padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  font-size: 1.1rem;
+  background-color: #d0f0c0;
+}
+
+#TelaIncial {
+    padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  font-size: 1.1rem;
+  background-color: #d8bfd8; 
+}
+
+#Sobre {
+    padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  font-size: 1.1rem;
+  background-color: #ffe4b5;
+}
+
+#Contato {
+    padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  font-size: 1.1rem;
+  background-color: #ffdab9; 
+}
+
+#Cadastro {
+    padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  font-size: 1.1rem;
+  background-color: #f0e68c; 
+}
+
+#beneficios {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  font-size: 1.1rem;
+  background-color: greenyellow; 
+}
+
